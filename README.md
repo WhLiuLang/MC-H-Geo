@@ -16,7 +16,7 @@ This repository provides the source code, demo data, and scripts to reproduce th
 
 ## 📌 Framework Overview
 <p align="center">
-  <img src="D:/研究生/SCI/overall framework/overall Framework.jpg" alt="MC-H-Geo Framework" width="700">
+  <img src="docs/overall Framework.jpg" alt="MC-H-Geo Framework" width="700">
 </p>
 
 **Workflow:**
