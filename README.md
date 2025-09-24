@@ -14,6 +14,10 @@ This repository provides the source code, demo data, and scripts to reproduce th
 
 ---
 
+## 📌 Framework Overview
+<p align="center">
+  <img src="D:/研究生/SCI/overall framework/overall Framework.jpg" alt="MC-H-Geo Framework" width="700">
+</p>
 
 **Workflow:**
 1. **Anchor Point Construction** – voxelize the outcrop into 10 mm grids and generate anchor points.  
